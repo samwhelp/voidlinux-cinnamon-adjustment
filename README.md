@@ -23,6 +23,12 @@
 * [Link](#link)
 
 
+| Style Management |
+| ---------------- |
+| [make-cinnamon-style](https://github.com/samwhelp/make-cinnamon-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## Script
